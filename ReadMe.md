@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: Olá, me chamo Fernando de Sousa, sou Desenvolvedor back-and
 🔭 Sou estudante de Front and e back and<br>👯 Estou a procura de estágio<br>🤝 Estou a procura de pessoas mais experientes na área<br>🌱 Estou atualmente aprendendo PHP<br>
 
 
